@@ -44,5 +44,5 @@ Candidates can search, filter, and apply for jobs based on **city**, **job type*
 
 1. Clone the repository:
 2. 
-   git clone https://github.com/yourusername/HireMate.git
+   git clone https://github.com/Himanshyou10/HireMate.git
    cd HireMate a
